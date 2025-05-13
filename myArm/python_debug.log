@@ -1,0 +1,1117 @@
+19:16:18.426 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+19:16:18.527 DEBU [pymycobot.common] _read : 
+19:16:18.632 DEBU [pymycobot.common] _write: fe fe 02 e4 fa
+19:16:18.732 DEBU [pymycobot.common] _read : 
+19:16:18.839 DEBU [pymycobot.common] _write: fe fe 02 07 fa
+19:16:18.939 DEBU [pymycobot.common] _read : 
+19:16:19.044 DEBU [pymycobot.common] _write: fe fe 02 15 fa
+19:16:19.145 DEBU [pymycobot.common] _read : 
+19:18:08.188 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+19:18:08.289 DEBU [pymycobot.common] _read : 
+19:18:08.395 DEBU [pymycobot.common] _write: fe fe 02 e4 fa
+19:18:08.508 DEBU [pymycobot.common] _read : 
+19:18:08.615 DEBU [pymycobot.common] _write: fe fe 02 07 fa
+19:18:08.717 DEBU [pymycobot.common] _read : 
+19:18:08.818 DEBU [pymycobot.common] _write: fe fe 02 15 fa
+19:18:08.918 DEBU [pymycobot.common] _read : 
+19:21:36.525 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+19:21:36.626 DEBU [pymycobot.common] _read : 
+19:21:36.729 DEBU [pymycobot.common] _write: fe fe 02 e4 fa
+19:21:36.831 DEBU [pymycobot.common] _read : 
+19:21:36.934 DEBU [pymycobot.common] _write: fe fe 02 07 fa
+19:21:37.035 DEBU [pymycobot.common] _read : 
+19:21:37.139 DEBU [pymycobot.common] _write: fe fe 02 15 fa
+19:21:37.239 DEBU [pymycobot.common] _read : 
+10:51:53.409 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:51:53.415 DEBU [pymycobot.common] _read : fe fe 10 20 ea d2 05 30 09 ac fc 89 14 ab f7 86 ff dd fa
+10:52:44.318 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:44.322 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 82 fb 9a 05 03 06 0a fa 5f ff 7d fa
+10:52:44.429 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:44.434 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 82 fb 9a 05 03 05 f9 fa 56 ff 7d fa
+10:52:44.540 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:44.542 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 82 fb 9a 05 03 06 02 fa 5f ff 7d fa
+10:52:44.648 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:44.650 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 79 fb 9a 05 0b 06 0a fa 71 ff 7d fa
+10:52:44.760 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:44.763 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 79 fb 9a 05 2f 06 13 fa 68 ff 7d fa
+10:52:44.871 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:44.874 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 7e 06 2e fa 4e ff 7d fa
+10:52:44.982 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:44.986 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 b2 06 2e fa 4e ff 7d fa
+10:52:45.093 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.098 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 bb 06 13 fa 5f ff 7d fa
+10:52:45.204 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.206 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 bb 06 02 fa 8b ff 7d fa
+10:52:45.315 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.318 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 c4 05 de fa 9d ff 7d fa
+10:52:45.425 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.430 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 d6 05 cd fa c0 ff 7d fa
+10:52:45.536 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.538 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 f0 05 bb fa ec ff 7d fa
+10:52:45.646 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.650 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 f0 05 7e fb 32 ff 7d fa
+10:52:45.757 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.762 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 de 05 1d fb 8a ff 7d fa
+10:52:45.868 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.871 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 aa 04 ce fb 9b ff 7d fa
+10:52:45.977 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:45.982 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 70 fb 9a 05 5b 04 bc fb 3b ff 7d fa
+10:52:46.087 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.090 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 79 fb 9a 05 2f 04 b4 fb 70 ff 7d fa
+10:52:46.197 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.202 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 79 fb 9a 04 ab 04 99 fc 4b ff 7d fa
+10:52:46.306 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.310 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 79 fb 9a 04 76 04 65 fc 89 ff 7d fa
+10:52:46.417 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.422 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 79 fb 9a 04 7f 04 30 fc 6e ff 7d fa
+10:52:46.527 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.530 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 70 fb 9a 04 99 04 04 fc 66 ff 7d fa
+10:52:46.639 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.642 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 70 fb 9a 04 a2 03 d8 fc 5d ff 7d fa
+10:52:46.750 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.754 DEBU [pymycobot.common] _read : fe fe 10 20 fb 5e 03 70 fb 9a 04 bc 03 c6 fc 42 ff 7d fa
+10:52:46.860 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.862 DEBU [pymycobot.common] _read : fe fe 10 20 fb 67 03 70 fb 9a 05 37 03 a3 fc 05 ff 7d fa
+10:52:46.972 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:46.974 DEBU [pymycobot.common] _read : fe fe 10 20 fb 93 03 70 fb 9a 05 aa 03 89 fb f3 ff 7d fa
+10:52:47.081 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.086 DEBU [pymycobot.common] _read : fe fe 10 20 fb a4 03 70 fb 9a 05 bb 03 a3 fb d9 ff 7d fa
+10:52:47.191 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.194 DEBU [pymycobot.common] _read : fe fe 10 20 fb f3 03 70 fb 88 06 25 04 04 fb 9b ff 7d fa
+10:52:47.302 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.306 DEBU [pymycobot.common] _read : fe fe 10 20 fc 28 03 67 fb 77 06 48 04 65 fb 81 ff 7d fa
+10:52:47.414 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.430 DEBU [pymycobot.common] _read : fe fe 10 20 fc 28 03 67 fb 77 06 0a 04 5c fb 8a ff 7d fa
+10:52:47.540 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.542 DEBU [pymycobot.common] _read : fe fe 10 20 fb fc 03 67 fb 9a 04 c5 03 5d fb 20 ff 7d fa
+10:52:47.649 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.654 DEBU [pymycobot.common] _read : fe fe 10 20 fb eb 03 67 fb 9a 03 e1 02 20 fb 3b ff 7d fa
+10:52:47.759 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.762 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fb b4 03 89 00 b8 fb 29 ff 7d fa
+10:52:47.869 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.874 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc 64 03 77 fe f9 fb 78 ff 7d fa
+10:52:47.980 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:47.982 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc d6 03 80 fe 98 fb bf ff 7d fa
+10:52:48.090 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.094 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc df 03 6e fe d6 fc 80 ff 7d fa
+10:52:48.200 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.202 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc df 03 54 ff 25 fc 77 ff 7d fa
+10:52:48.311 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.314 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc df 03 b5 00 46 fc e1 ff 7d fa
+10:52:48.423 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.426 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc df 04 30 00 e4 fc f2 ff 7d fa
+10:52:48.534 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.539 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc c5 04 ce 01 8b fc e9 ff 7d fa
+10:52:48.644 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.646 DEBU [pymycobot.common] _read : fe fe 10 20 fb e2 03 70 fc c5 04 ce 01 c0 fc be ff 7d fa
+10:52:48.755 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.759 DEBU [pymycobot.common] _read : fe fe 10 20 fb bf 03 70 fc df 04 6d 01 b7 fc 42 ff 7d fa
+10:52:48.866 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.870 DEBU [pymycobot.common] _read : fe fe 10 20 fa da 03 79 fc df 04 6d 01 45 fb ad ff 7d fa
+10:52:48.976 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:48.978 DEBU [pymycobot.common] _read : fe fe 10 20 fa 4e 03 8a fc df 04 e8 ff d5 fb 67 ff 7d fa
+10:52:49.085 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.090 DEBU [pymycobot.common] _read : fe fe 10 20 f9 c1 03 9c fc df 04 53 fe 49 fa c9 ff 7d fa
+10:52:49.194 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.198 DEBU [pymycobot.common] _read : fe fe 10 20 f9 95 03 eb fc df 03 80 fd c5 fa ae ff 7d fa
+10:52:49.305 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.311 DEBU [pymycobot.common] _read : fe fe 10 20 f9 95 04 17 fc df 03 80 fe bb fb 3b ff 7d fa
+10:52:49.416 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.419 DEBU [pymycobot.common] _read : fe fe 10 20 f9 95 04 17 fc df 05 5b ff d5 fb d9 ff 74 fa
+10:52:49.526 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.530 DEBU [pymycobot.common] _read : fe fe 10 20 f9 95 04 17 fc cd 04 90 02 4c fe 26 ff 74 fa
+10:52:49.637 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.642 DEBU [pymycobot.common] _read : fe fe 10 20 f9 95 04 17 fc df 00 db 02 d0 01 45 ff 7d fa
+10:52:49.748 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.750 DEBU [pymycobot.common] _read : fe fe 10 20 f9 95 04 17 fc df 00 4f 02 9b 00 72 ff 7d fa
+10:52:49.860 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.863 DEBU [pymycobot.common] _read : fe fe 10 20 f9 95 04 17 fc c5 fe 03 02 0f 00 11 ff 7d fa
+10:52:49.970 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:49.975 DEBU [pymycobot.common] _read : fe fe 10 20 f9 9e 04 17 fc bc fe 6c 01 b7 ff c3 ff 7d fa
+10:52:50.080 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.082 DEBU [pymycobot.common] _read : fe fe 10 20 f9 ca 04 17 fc bc fe 37 01 ec ff dd ff 7d fa
+10:52:50.189 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.194 DEBU [pymycobot.common] _read : fe fe 10 20 f9 d2 04 17 fc bc fe cd 02 78 ff c3 ff 7d fa
+10:52:50.300 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.302 DEBU [pymycobot.common] _read : fe fe 10 20 fa 10 04 0e fc bc fe d6 02 d9 ff d5 ff 7d fa
+10:52:50.409 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.415 DEBU [pymycobot.common] _read : fe fe 10 20 fa 5f 04 0e fc bc fe 98 02 c7 00 11 ff 7d fa
+10:52:50.518 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.522 DEBU [pymycobot.common] _read : fe fe 10 20 fa 68 04 17 fc bc fe c4 02 81 01 4d ff 7d fa
+10:52:50.627 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.630 DEBU [pymycobot.common] _read : fe fe 10 20 fa e3 04 17 fc bc fe 87 01 e3 03 1f ff 7d fa
+10:52:50.737 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.743 DEBU [pymycobot.common] _read : fe fe 10 20 fb 29 04 17 fc bc fe bb 01 e3 03 9a ff 7d fa
+10:52:50.847 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.850 DEBU [pymycobot.common] _read : fe fe 10 20 fb 9b 04 0e fc bc fe bb 01 ec 03 fb ff 7d fa
+10:52:50.957 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:50.962 DEBU [pymycobot.common] _read : fe fe 10 20 fc 17 04 0e fc bc fe aa 01 da 04 6d ff 7d fa
+10:52:51.068 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.070 DEBU [pymycobot.common] _read : fe fe 10 20 fc c6 04 0e fc b3 fe c4 01 b7 05 0b ff 74 fa
+10:52:51.176 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.179 DEBU [pymycobot.common] _read : fe fe 10 20 fd 4a 04 05 fc b3 fe c4 01 8b 04 ce ff 7d fa
+10:52:51.286 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.290 DEBU [pymycobot.common] _read : fe fe 10 20 fd 99 03 f4 fc b3 fe b3 01 22 04 c5 ff 7d fa
+10:52:51.395 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.399 DEBU [pymycobot.common] _read : fe fe 10 20 fd 99 03 eb fc b3 fe a1 00 ca 05 2f ff 7d fa
+10:52:51.505 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.518 DEBU [pymycobot.common] _read : fe fe 10 20 fd 88 03 eb fc b3 fe 49 00 08 05 5b ff 7d fa
+10:52:51.629 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.634 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 03 eb fc bc fe 6c ff 62 04 e0 ff 7d fa
+10:52:51.738 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.742 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 03 fd fc d6 fe 98 fe b3 04 90 ff 7d fa
+10:52:51.848 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.850 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 04 05 fc df ff 25 fe 75 04 30 ff 7d fa
+10:52:51.957 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:51.962 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 04 05 fc df ff c3 fe 63 03 ac ff 7d fa
+10:52:52.067 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.070 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 f4 fc df ff b1 fe 98 03 9a ff 7d fa
+10:52:52.175 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.178 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 f4 fc df ff d5 fe d6 03 a3 ff 7d fa
+10:52:52.284 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.287 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff dd ff 0a 03 e1 ff 7d fa
+10:52:52.395 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.399 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff d5 ff 2e 03 92 ff 7d fa
+10:52:52.506 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.511 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff c3 ff 1c 03 77 ff 7d fa
+10:52:52.615 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.618 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff b1 ff 2e 03 28 ff 7d fa
+10:52:52.725 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.730 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff a0 ff 13 02 f3 ff 7d fa
+10:52:52.833 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.838 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff cc ff 2e 03 05 ff 74 fa
+10:52:52.943 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:52.946 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff dd ff 2e 03 0e ff 7d fa
+10:52:53.053 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.059 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 fd fc df ff e6 ff 2e 02 fc ff 7d fa
+10:52:53.163 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.166 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 f4 fc df ff e6 ff 36 02 f3 ff 7d fa
+10:52:53.274 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.278 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 f4 fc df 00 08 ff 3f 03 05 ff 7d fa
+10:52:53.383 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.386 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 eb fc df 00 23 ff 51 02 f3 ff 7d fa
+10:52:53.494 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.499 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df 00 23 ff 51 02 f3 ff 7d fa
+10:52:53.605 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.611 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df 00 1a ff 6b 02 f3 ff 7d fa
+10:52:53.716 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.719 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df 00 08 ff a9 02 f3 ff 7d fa
+10:52:53.826 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.830 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff f8 ff ba 02 e2 ff 7d fa
+10:52:53.937 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:53.942 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df 00 11 ff ba 02 c7 ff 7d fa
+10:52:54.049 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.054 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff e6 ff ba 02 bf ff 7d fa
+10:52:54.160 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.163 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff b1 ff b1 02 ad ff 7d fa
+10:52:54.270 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.274 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff a9 ff 97 02 ad ff 7d fa
+10:52:54.380 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.382 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 8e ff 97 02 a4 ff 7d fa
+10:52:54.491 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.494 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 5a ff a9 02 93 ff 7d fa
+10:52:54.602 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.607 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 74 ff 97 02 9b ff 7d fa
+10:52:54.713 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.719 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 74 ff b1 02 93 ff 7d fa
+10:52:54.823 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.826 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 7d ff ba 02 93 ff 7d fa
+10:52:54.933 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:54.939 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 5a ff cc 02 93 ff 7d fa
+10:52:55.043 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.046 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 51 ff d5 02 8a ff 7d fa
+10:52:55.153 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.154 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 3f ff d5 02 8a ff 7d fa
+10:52:55.263 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.266 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 3f ff d5 02 8a ff 7d fa
+10:52:55.374 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.378 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 48 ff d5 02 8a ff 7d fa
+10:52:55.485 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.490 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 3f ff cc 02 8a ff 7d fa
+10:52:55.595 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.606 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc df ff 13 ff c3 02 81 ff 7d fa
+10:52:55.722 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.726 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc d6 ff 02 ff ba 02 78 ff 7d fa
+10:52:55.833 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.835 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc cd ff 25 ff ba 02 81 ff 7d fa
+10:52:55.943 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:55.946 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc cd ff 2e ff ba 02 81 ff 7d fa
+10:52:56.054 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.058 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc cd ff 48 ff ba 02 8a ff 7d fa
+10:52:56.165 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.171 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 48 ff b1 02 81 ff 7d fa
+10:52:56.275 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.279 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 51 ff a9 02 81 ff 7d fa
+10:52:56.386 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.391 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc cd ff 5a ff a9 02 81 ff 7d fa
+10:52:56.495 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.498 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc cd ff 5a ff a9 02 81 ff 7d fa
+10:52:56.606 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.610 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 6b ff a9 02 8a ff 7d fa
+10:52:56.717 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.722 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 74 ff a9 02 81 ff 7d fa
+10:52:56.828 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.830 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 74 ff a9 02 81 ff 7d fa
+10:52:56.939 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:56.943 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 74 ff a9 02 8a ff 7d fa
+10:52:57.049 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.055 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 74 ff a9 02 81 ff 7d fa
+10:52:57.158 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.162 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 74 ff a9 02 81 ff 7d fa
+10:52:57.266 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.271 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 74 ff a9 02 81 ff 7d fa
+10:52:57.376 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.378 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 74 ff a9 02 81 ff 7d fa
+10:52:57.487 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.490 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 7d ff a9 02 81 ff 7d fa
+10:52:57.597 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.598 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc c5 ff 7d ff a9 02 81 ff 7d fa
+10:52:57.708 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.710 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 7d ff a9 02 81 ff 7d fa
+10:52:57.821 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.823 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 7d ff a9 02 81 ff 7d fa
+10:52:57.931 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:57.934 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 7d ff a9 02 81 ff 7d fa
+10:52:58.040 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.042 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 7d ff a9 02 81 ff 7d fa
+10:52:58.150 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.154 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 7d ff a9 02 81 ff 7d fa
+10:52:58.260 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.262 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 74 ff a9 02 81 ff 7d fa
+10:52:58.371 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.375 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 74 ff a9 02 81 ff 7d fa
+10:52:58.481 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.486 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 81 ff 7d fa
+10:52:58.590 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.595 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 81 ff 7d fa
+10:52:58.701 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.703 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 81 ff 7d fa
+10:52:58.811 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.814 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 81 ff 7d fa
+10:52:58.922 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:58.926 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 81 ff 7d fa
+10:52:59.032 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.034 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 81 ff 7d fa
+10:52:59.143 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.146 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 78 ff 7d fa
+10:52:59.254 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.259 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 6b ff a9 02 78 ff 7d fa
+10:52:59.364 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.367 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 62 ff a9 02 78 ff 7d fa
+10:52:59.475 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.478 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 62 ff a9 02 78 ff 7d fa
+10:52:59.586 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.590 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 62 ff a0 02 78 ff 7d fa
+10:52:59.696 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.699 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 62 ff a0 02 78 ff 7d fa
+10:52:59.806 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.811 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 5a ff a0 02 78 ff 7d fa
+10:52:59.916 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:52:59.918 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 5a ff 97 02 78 ff 7d fa
+10:53:00.026 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.030 DEBU [pymycobot.common] _read : fe fe 10 20 fd 5c 03 e2 fc bc ff 51 ff 8e 02 78 ff 7d fa
+10:53:00.137 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.142 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 03 e2 fc bc ff 3f ff 7d 02 70 ff 7d fa
+10:53:00.248 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.250 DEBU [pymycobot.common] _read : fe fe 10 20 fd 88 03 e2 fc bc fe f0 ff 62 02 5e ff 7d fa
+10:53:00.360 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.363 DEBU [pymycobot.common] _read : fe fe 10 20 fd 99 03 e2 fc bc ff 02 ff 5a 02 67 ff 7d fa
+10:53:00.470 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.474 DEBU [pymycobot.common] _read : fe fe 10 20 fd 99 03 e2 fc b3 ff 13 ff 51 02 67 ff 74 fa
+10:53:00.581 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.586 DEBU [pymycobot.common] _read : fe fe 10 20 fd 99 03 e2 fc b3 ff 02 ff 25 02 5e ff 7d fa
+10:53:00.691 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.695 DEBU [pymycobot.common] _read : fe fe 10 20 fd ce 03 e2 fc b3 fe 7e ff 1c 02 29 ff 7d fa
+10:53:00.801 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.807 DEBU [pymycobot.common] _read : fe fe 10 20 fe 52 03 e2 fc b3 fd 88 ff 3f 02 06 ff 74 fa
+10:53:00.912 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:00.915 DEBU [pymycobot.common] _read : fe fe 10 20 fe cd 03 82 fc b3 fe 03 ff 48 02 29 ff 7d fa
+10:53:01.024 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.027 DEBU [pymycobot.common] _read : fe fe 10 20 ff 13 03 4d fc b3 fe de ff 51 02 0f ff 7d fa
+10:53:01.134 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.138 DEBU [pymycobot.common] _read : fe fe 10 20 ff 85 03 33 fc c5 fe f0 ff 7d 02 0f ff 7d fa
+10:53:01.243 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.246 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 07 fc d6 ff 0a ff a0 02 18 ff 7d fa
+10:53:01.354 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.359 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 07 fc d6 ff 02 ff 97 02 0f ff 7d fa
+10:53:01.464 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.466 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 07 fc d6 fe f0 ff 8e 02 06 ff 7d fa
+10:53:01.572 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.575 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 07 fc d6 ff 02 ff 8e 02 06 ff 7d fa
+10:53:01.682 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.687 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 07 fc cd ff 0a ff 85 02 06 ff 7d fa
+10:53:01.794 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.798 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 0f fc c5 ff 13 ff 74 02 06 ff 7d fa
+10:53:01.902 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:01.906 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 0f fc bc ff 1c ff 62 02 06 ff 7d fa
+10:53:02.010 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.014 DEBU [pymycobot.common] _read : fe fe 10 20 ff 8e 03 18 fc bc ff 1c ff 3f 02 06 ff 7d fa
+10:53:02.121 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.126 DEBU [pymycobot.common] _read : fe fe 10 20 ff 85 03 21 fc bc ff 1c ff 0a 02 20 ff 7d fa
+10:53:02.232 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.234 DEBU [pymycobot.common] _read : fe fe 10 20 ff 85 03 21 fc bc fe f9 fe cd 02 0f ff 7d fa
+10:53:02.343 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.347 DEBU [pymycobot.common] _read : fe fe 10 20 ff 85 03 2a fc b3 fe f9 fe bb 02 06 ff 7d fa
+10:53:02.455 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.458 DEBU [pymycobot.common] _read : fe fe 10 20 ff 85 03 2a fc b3 fe f9 fe a1 02 0f ff 7d fa
+10:53:02.565 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.570 DEBU [pymycobot.common] _read : fe fe 10 20 ff 85 03 33 fc b3 ff 1c fe 6c 02 0f ff 7d fa
+10:53:02.676 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.678 DEBU [pymycobot.common] _read : fe fe 10 20 ff 7d 03 33 fc b3 ff 36 fe 7e 02 0f ff 7d fa
+10:53:02.784 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.786 DEBU [pymycobot.common] _read : fe fe 10 20 ff 6b 03 33 fc bc ff 3f fe 7e 02 20 ff 7d fa
+10:53:02.895 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:02.899 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 5a fe 8f 02 0f ff 7d fa
+10:53:03.005 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.011 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc c5 ff 3f fe aa 02 18 ff 7d fa
+10:53:03.115 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.119 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc cd ff 3f fe aa 02 18 ff 7d fa
+10:53:03.226 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.230 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc cd ff 3f fe aa 02 18 ff 7d fa
+10:53:03.338 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.343 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc cd ff 48 fe aa 02 18 ff 7d fa
+10:53:03.448 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.451 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc c5 ff 3f fe aa 02 18 ff 7d fa
+10:53:03.557 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.562 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 36 fe aa 02 18 ff 7d fa
+10:53:03.668 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.670 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 2e fe aa 02 0f ff 7d fa
+10:53:03.779 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.782 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 2e fe aa 02 0f ff 7d fa
+10:53:03.890 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:03.895 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 2e fe aa 02 18 ff 7d fa
+10:53:04.000 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.003 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 2e fe aa 02 18 ff 7d fa
+10:53:04.110 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.114 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 25 fe b3 02 18 ff 7d fa
+10:53:04.221 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.223 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc c5 ff 25 fe b3 02 18 ff 7d fa
+10:53:04.332 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.334 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 13 fe b3 02 18 ff 7d fa
+10:53:04.442 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.447 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 13 fe b3 02 0f ff 7d fa
+10:53:04.552 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.555 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 13 fe b3 02 18 ff 7d fa
+10:53:04.663 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.667 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 1c fe b3 02 18 ff 7d fa
+10:53:04.772 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.774 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc bc ff 25 fe b3 02 20 ff 7d fa
+10:53:04.882 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.887 DEBU [pymycobot.common] _read : fe fe 10 20 ff 5a 03 33 fc cd ff 36 fe b3 02 29 ff 7d fa
+10:53:04.993 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:04.994 DEBU [pymycobot.common] _read : fe fe 10 20 ff 51 03 33 fc d6 ff 48 fe de 02 29 ff 7d fa
+10:53:05.102 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.107 DEBU [pymycobot.common] _read : fe fe 10 20 ff 51 03 33 fc df ff 5a ff 13 02 4c ff 7d fa
+10:53:05.214 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.219 DEBU [pymycobot.common] _read : fe fe 10 20 ff 51 03 33 fc df ff 6b ff 1c 02 5e ff 7d fa
+10:53:05.322 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.327 DEBU [pymycobot.common] _read : fe fe 10 20 ff 51 03 33 fc df ff 6b ff 2e 02 67 ff 7d fa
+10:53:05.429 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.431 DEBU [pymycobot.common] _read : fe fe 10 20 ff 48 03 33 fc df ff 74 ff 2e 02 67 ff 7d fa
+10:53:05.538 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.543 DEBU [pymycobot.common] _read : fe fe 10 20 ff 48 03 33 fc e8 ff 74 ff 1c 02 4c ff 7d fa
+10:53:05.646 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.651 DEBU [pymycobot.common] _read : fe fe 10 20 ff 48 03 33 fc e8 ff 7d fe f0 02 4c ff 7d fa
+10:53:05.756 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.758 DEBU [pymycobot.common] _read : fe fe 10 20 ff 48 03 33 fc e8 ff b1 fe f0 02 44 ff 7d fa
+10:53:05.865 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.867 DEBU [pymycobot.common] _read : fe fe 10 20 ff 3f 03 33 fc e8 ff dd fe f9 02 44 ff 7d fa
+10:53:05.974 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:05.978 DEBU [pymycobot.common] _read : fe fe 10 20 fe cd 03 33 fc e8 00 46 fe b3 02 67 ff 7d fa
+10:53:06.085 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.091 DEBU [pymycobot.common] _read : fe fe 10 20 fe bb 03 44 fc e8 00 72 fe a1 02 32 ff 7d fa
+10:53:06.195 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.198 DEBU [pymycobot.common] _read : fe fe 10 20 fe a1 03 82 fc e8 00 2b fe a1 02 20 ff 7d fa
+10:53:06.305 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.310 DEBU [pymycobot.common] _read : fe fe 10 20 fe 87 03 da fc e8 00 23 fe 87 02 06 ff 7d fa
+10:53:06.415 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.418 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 03 e2 fd d5 ff a0 fd 88 02 06 ff 7d fa
+10:53:06.524 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.527 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 03 e2 fe 73 fe cd fc ac 02 06 ff 7d fa
+10:53:06.635 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.639 DEBU [pymycobot.common] _read : fe fe 10 20 fe 0c 03 e2 fe 73 ff 62 fc c6 02 18 ff 7d fa
+10:53:06.744 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.747 DEBU [pymycobot.common] _read : fe fe 10 20 fe 14 03 c8 fe 73 ff 97 fc cf 02 18 ff 7d fa
+10:53:06.855 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.859 DEBU [pymycobot.common] _read : fe fe 10 20 fe 1d 03 c8 fe 73 ff a9 fd 15 02 55 ff 7d fa
+10:53:06.964 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:06.966 DEBU [pymycobot.common] _read : fe fe 10 20 fe 0c 03 d1 fe 73 ff c3 fd 27 02 55 ff 7d fa
+10:53:07.075 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.079 DEBU [pymycobot.common] _read : fe fe 10 20 fd f1 03 da fe 6b ff cc fd 27 02 55 ff 7d fa
+10:53:07.186 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.191 DEBU [pymycobot.common] _read : fe fe 10 20 fd f1 03 e2 fe 62 ff ba fd 27 02 55 ff 7d fa
+10:53:07.294 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.299 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 03 e2 fe 50 ff ba fd 27 02 3b ff 7d fa
+10:53:07.405 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.407 DEBU [pymycobot.common] _read : fe fe 10 20 fd f1 03 e2 fe 47 ff 8e fd 0d 02 3b ff 7d fa
+10:53:07.516 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.518 DEBU [pymycobot.common] _read : fe fe 10 20 fd f1 04 29 fe 47 ff 7d fc fb 02 32 ff 7d fa
+10:53:07.627 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.631 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 78 fe 0a ff 48 fc fb 02 44 ff 7d fa
+10:53:07.737 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.743 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 f3 fd 74 ff 5a fd 39 02 44 ff 7d fa
+10:53:07.849 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.850 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 1d ff 6b fd 39 02 4c ff 7d fa
+10:53:07.958 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:07.963 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 51 fd 1e 02 4c ff 7d fa
+10:53:08.068 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.071 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 6b fd 0d 02 55 ff 7d fa
+10:53:08.179 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.183 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 6b fd 04 02 55 ff 7d fa
+10:53:08.288 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.290 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 62 fc fb 02 55 ff 7d fa
+10:53:08.398 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.402 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 48 fc f2 02 44 ff 7d fa
+10:53:08.508 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.511 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 51 fc e9 02 4c ff 7d fa
+10:53:08.619 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.622 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 51 fc e9 02 4c ff 7d fa
+10:53:08.728 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.730 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fc f9 ff 3f fc cf 02 44 ff 7d fa
+10:53:08.839 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.843 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 0b ff 25 fc c6 02 4c ff 7d fa
+10:53:08.949 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:08.951 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 ff 0a fc b5 02 4c ff 7d fa
+10:53:09.059 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.062 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 fe de fc a3 02 3b ff 7d fa
+10:53:09.169 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.174 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 ff 02 fc a3 02 55 ff 7d fa
+10:53:09.280 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.282 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 0b ff 2e fc ac 02 5e ff 7d fa
+10:53:09.389 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.395 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 ff a0 fd 27 02 81 ff 7d fa
+10:53:09.498 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.502 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 ff 6b fd c5 02 29 ff 7d fa
+10:53:09.608 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.611 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 fe d6 fe 87 01 da ff 7d fa
+10:53:09.719 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.722 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 fe de fe e7 01 da ff 7d fa
+10:53:09.830 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.835 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 04 fc fd 02 fe f0 ff 3f 01 d1 ff 7d fa
+10:53:09.941 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:09.947 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 25 ff 51 01 c0 ff 7d fa
+10:53:10.052 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.054 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 6b ff 51 01 c0 ff 7d fa
+10:53:10.164 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.167 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 6b ff 51 01 c0 ff 7d fa
+10:53:10.274 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.279 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 74 ff 51 01 c0 ff 7d fa
+10:53:10.384 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.387 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 74 ff 3f 01 c0 ff 7d fa
+10:53:10.495 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.499 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 62 ff 2e 01 c0 ff 7d fa
+10:53:10.606 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.611 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 74 ff 36 01 c0 ff 7d fa
+10:53:10.718 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.723 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 0b ff 48 ff 36 01 c0 ff 7d fa
+10:53:10.827 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.831 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 0b ff 36 ff 36 01 ae ff 7d fa
+10:53:10.938 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:10.943 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 0b ff 25 ff 51 01 ae ff 7d fa
+10:53:11.050 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.055 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 ff 13 ff 6b 01 ae ff 7d fa
+10:53:11.161 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.163 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 fe de ff 6b 01 c0 ff 7d fa
+10:53:11.272 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.275 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 fe c4 ff 6b 01 f4 ff 7d fa
+10:53:11.383 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.387 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 fc fd 02 fe cd ff 6b 02 0f ff 7d fa
+10:53:11.495 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.499 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe cd ff 6b 02 0f ff 7d fa
+10:53:11.606 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.611 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe de ff 6b 02 20 ff 7d fa
+10:53:11.716 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.719 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe de ff 6b 02 20 ff 7d fa
+10:53:11.828 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.831 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe de ff 6b 02 29 ff 7d fa
+10:53:11.939 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:11.942 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe d6 ff 6b 02 29 ff 7d fa
+10:53:12.047 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.051 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe d6 ff 6b 02 29 ff 7d fa
+10:53:12.158 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.163 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe c4 ff 6b 02 29 ff 7d fa
+10:53:12.268 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.271 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 f3 fd 02 fe c4 ff 6b 02 29 ff 7d fa
+10:53:12.379 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.383 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 ea fd 02 fe cd ff 6b 02 29 ff 7d fa
+10:53:12.489 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.495 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 ea fd 02 fe cd ff 6b 02 32 ff 7d fa
+10:53:12.600 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.603 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 ea fd 02 fe c4 ff 6b 02 32 ff 7d fa
+10:53:12.709 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.715 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 ea fd 02 fe c4 ff 6b 02 32 ff 7d fa
+10:53:12.819 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.823 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 ea fd 02 fe c4 ff 6b 02 32 ff 7d fa
+10:53:12.929 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:12.931 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 ea fd 02 fe b3 ff 6b 02 32 ff 7d fa
+10:53:13.038 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.043 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 e1 fd 02 fe a1 ff 6b 02 3b ff 7d fa
+10:53:13.149 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.151 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe a1 ff 6b 02 44 ff 7d fa
+10:53:13.260 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.263 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe a1 ff 6b 02 44 ff 7d fa
+10:53:13.370 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.375 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe a1 ff 6b 02 44 ff 7d fa
+10:53:13.480 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.482 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe 98 ff 6b 02 44 ff 7d fa
+10:53:13.590 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.595 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe 98 ff 6b 02 3b ff 7d fa
+10:53:13.699 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.703 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe a1 ff 6b 02 44 ff 7d fa
+10:53:13.808 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.811 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe aa ff 6b 02 44 ff 7d fa
+10:53:13.919 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:13.923 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe b3 ff 6b 02 44 ff 7d fa
+10:53:14.030 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.035 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe a1 ff 6b 02 44 ff 7d fa
+10:53:14.140 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.143 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe a1 ff 6b 02 44 ff 7d fa
+10:53:14.250 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.255 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe a1 ff 6b 02 3b ff 7d fa
+10:53:14.361 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.367 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe 98 ff 6b 02 32 ff 7d fa
+10:53:14.473 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.475 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d8 fd 02 fe 98 ff 6b 02 32 ff 7d fa
+10:53:14.583 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.587 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe a1 ff 74 02 3b ff 7d fa
+10:53:14.693 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.698 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe b3 ff 74 02 44 ff 7d fa
+10:53:14.805 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.806 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe bb ff 74 02 44 ff 7d fa
+10:53:14.913 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:14.919 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe bb ff 74 02 44 ff 7d fa
+10:53:15.021 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.027 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe b3 ff 74 02 44 ff 7d fa
+10:53:15.133 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.139 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe bb ff 74 02 44 ff 7d fa
+10:53:15.244 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.247 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe b3 ff 74 02 44 ff 7d fa
+10:53:15.355 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.359 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe b3 ff 74 02 44 ff 7d fa
+10:53:15.464 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.467 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 74 02 3b ff 7d fa
+10:53:15.575 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.579 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 74 02 3b ff 7d fa
+10:53:15.686 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.691 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 74 02 3b ff 7d fa
+10:53:15.796 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.799 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 74 02 3b ff 7d fa
+10:53:15.904 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:15.907 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 74 02 3b ff 7d fa
+10:53:16.013 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.015 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 7d 02 3b ff 7d fa
+10:53:16.123 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.127 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 7d 02 32 ff 7d fa
+10:53:16.233 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.235 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 85 02 32 ff 7d fa
+10:53:16.343 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.347 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe aa ff 8e 02 29 ff 7d fa
+10:53:16.455 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.459 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe a1 ff 8e 02 18 ff 7d fa
+10:53:16.566 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.571 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe b3 ff 8e 02 18 ff 7d fa
+10:53:16.677 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.679 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe c4 ff a0 02 18 ff 7d fa
+10:53:16.786 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.791 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 d0 fd 02 fe b3 ff a0 02 18 ff 7d fa
+10:53:16.896 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:16.899 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 c7 fd 0b fe aa ff a0 02 29 ff 7d fa
+10:53:17.006 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.011 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 92 fd 25 fe 98 ff 85 02 0f ff 7d fa
+10:53:17.116 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.119 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 55 fd 25 fe 8f ff 2e 02 20 ff 7d fa
+10:53:17.226 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.231 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 04 0e fd 25 fe 87 ff 74 02 06 ff 7d fa
+10:53:17.335 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.339 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 03 d1 fd 86 fe c4 00 2b 02 18 ff 7d fa
+10:53:17.444 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.447 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 03 56 fe 6b fe 63 ff 97 01 fd ff 7d fa
+10:53:17.554 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.559 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 02 db ff 46 fe 40 ff 36 02 0f ff 7d fa
+10:53:17.664 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.667 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 02 45 00 0f fe 52 ff 1c 02 29 ff 7d fa
+10:53:17.773 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.775 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 01 8d 00 da fe 6c fe de 02 3b ff 7d fa
+10:53:17.884 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.887 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 00 cb 01 92 fe 6c fe aa 02 44 ff 7d fa
+10:53:17.993 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:17.995 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 00 0a 02 39 fe 8f fe aa 02 5e ff 7d fa
+10:53:18.104 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.107 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 ff 5b 02 f2 fe 98 fe 8f 02 5e ff 7d fa
+10:53:18.214 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.219 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fe cf 03 aa fe 5b fe 75 02 55 ff 7d fa
+10:53:18.324 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.327 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fe 53 04 51 fe 26 fe 49 02 55 ff 7d fa
+10:53:18.434 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.439 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fd f3 04 cc fe 0c fe 2f 02 55 ff 74 fa
+10:53:18.543 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.547 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fd 92 05 1b fd f1 fe 1d 02 4c ff 7d fa
+10:53:18.654 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.659 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fd 3a 05 47 fd d7 fe 0c 02 55 ff 7d fa
+10:53:18.764 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.767 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc da 05 73 fd c5 fd fa 02 44 ff 7d fa
+10:53:18.873 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.879 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc b6 05 73 fd e8 fe 0c 02 55 ff 7d fa
+10:53:18.983 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:18.987 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc 67 05 9f fd c5 fe 1d 02 4c ff 7d fa
+10:53:19.093 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.095 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc 4d 05 dd fd 88 fd bc 02 4c ff 7d fa
+10:53:19.203 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.207 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb fe 06 1a fd a2 fe 14 02 67 ff 7d fa
+10:53:19.313 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.315 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb b8 06 46 fd 65 fd bc 02 55 ff 7d fa
+10:53:19.423 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.427 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 94 06 72 fd 27 fd bc 02 4c ff 7d fa
+10:53:19.534 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.539 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 60 06 a7 fd 04 fd bc 02 55 ff 7d fa
+10:53:19.644 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.647 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 11 06 ca fc e1 fd ab 02 55 ff 7d fa
+10:53:19.754 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.759 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa b9 07 19 fc 9a fd 7f 02 4c ff 7d fa
+10:53:19.865 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.867 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa a7 07 71 fc 42 fc c6 02 0f ff 7d fa
+10:53:19.975 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:19.979 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa c1 07 68 fc 17 fc be 02 18 ff 7d fa
+10:53:20.087 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.091 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa ca 07 57 fc 17 fc 66 01 fd ff 7d fa
+10:53:20.197 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.203 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa ca 07 68 fc 31 fc 5d 01 fd ff 7d fa
+10:53:20.308 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.311 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa ca 07 68 fc 31 fc 6e 01 fd ff 7d fa
+10:53:20.419 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.423 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa ca 07 68 fc 17 fc 54 01 f4 ff 7d fa
+10:53:20.530 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.535 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa d3 07 68 fc 54 fc 42 01 ec ff 7d fa
+10:53:20.640 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.643 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa d3 07 68 fc 77 fc 1f 02 06 ff 7d fa
+10:53:20.750 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.755 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fa dc 07 68 fc 80 fc 05 01 f4 ff 7d fa
+10:53:20.860 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.863 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 08 07 71 fc ac fb eb 02 06 ff 7d fa
+10:53:20.969 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:20.971 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 11 07 71 fc be fb eb 02 06 ff 7d fa
+10:53:21.076 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.079 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 4e 07 71 fc be fc 05 01 fd ff 7d fa
+10:53:21.185 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.187 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 9d 07 71 fc a3 fc 4b 01 fd ff 7d fa
+10:53:21.294 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.299 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 9d 07 a6 fc 89 fb d9 01 f4 ff 7d fa
+10:53:21.404 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.407 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 9d 07 a6 fc 92 fb ad 01 ec ff 7d fa
+10:53:21.514 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.519 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 9d 07 9d fc 54 fb 3b 01 c9 ff 7d fa
+10:53:21.623 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.627 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb 9d 07 9d fc 6e fb 0f 01 c0 ff 7d fa
+10:53:21.734 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.739 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb b8 07 8b fc ac fa 4e 01 f4 ff 7d fa
+10:53:21.845 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.847 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fb c0 07 68 fc b5 fa 2a 01 f4 ff 7d fa
+10:53:21.956 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:21.960 DEBU [pymycobot.common] _read : fe fe 10 20 fe 14 fb c0 06 61 fc c6 fa 10 01 e3 ff 7d fa
+10:53:22.066 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.071 DEBU [pymycobot.common] _read : fe fe 10 20 fe 14 fc 18 05 0a fd 7f fb 0f 02 0f ff 7d fa
+10:53:22.177 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.183 DEBU [pymycobot.common] _read : fe fe 10 20 fd fa fc 2a 03 bc fe 75 fb 32 02 0f ff 7d fa
+10:53:22.288 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.291 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 fc 56 02 bd fe de fb 3b 01 ec ff 7d fa
+10:53:22.398 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.404 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 fc 5f 01 fc fe 75 fb 55 01 da ff 7d fa
+10:53:22.507 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.511 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 fc 5f 01 81 fe 26 fb 55 01 ec ff 7d fa
+10:53:22.619 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.623 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 fc 5f 01 81 fe 6c fb 4c 02 0f ff 7d fa
+10:53:22.730 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.735 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 fc 67 01 a4 fe 7e fb 55 02 29 ff 7d fa
+10:53:22.842 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.847 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 fc a5 01 a4 fe 87 fb 81 02 29 ff 7d fa
+10:53:22.954 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:22.959 DEBU [pymycobot.common] _read : fe fe 10 20 fd e8 fc a5 01 a4 fe 87 fb 9b 02 29 ff 7d fa
+10:53:23.062 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.068 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc a5 01 ad fe 98 fb 9b 02 3b ff 7d fa
+10:53:23.173 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.175 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc a5 01 ad fe b3 fb 9b 02 3b ff 7d fa
+10:53:23.284 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.287 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc a5 01 ad fe cd fb 9b 02 44 ff 7d fa
+10:53:23.392 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.395 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc a5 01 ad fe c4 fb 9b 02 44 ff 7d fa
+10:53:23.502 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.507 DEBU [pymycobot.common] _read : fe fe 10 20 fd e0 fc a5 01 ad fe c4 fb 9b 02 44 ff 7d fa
+10:53:23.612 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.615 DEBU [pymycobot.common] _read : fe fe 10 20 fd 90 fc a5 01 ea fe d6 fb 8a 02 78 ff 7d fa
+10:53:23.724 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.727 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc a5 01 f3 fe f9 fb 81 02 81 ff 7d fa
+10:53:23.834 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.839 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc a5 01 f3 ff 36 fb 81 02 93 ff 7d fa
+10:53:23.946 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:23.951 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc a5 01 f3 ff 74 fb bf 02 ad ff 7d fa
+10:53:24.057 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.063 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc a5 01 fc ff 74 fb c7 02 d0 ff 7d fa
+10:53:24.169 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.171 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc 9c 01 fc ff 6b fb c7 02 d0 ff 7d fa
+10:53:24.279 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.283 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc 9c 01 fc ff 74 fb d0 02 d9 ff 7d fa
+10:53:24.391 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.395 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc 9c 01 fc ff 74 fb e2 02 c7 ff 7d fa
+10:53:24.503 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.508 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc a5 01 fc ff 5a fb f3 02 b6 ff 7d fa
+10:53:24.614 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.619 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc a5 01 fc ff 5a fb fc 02 bf ff 7d fa
+10:53:24.726 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.731 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fc a5 01 fc ff 5a fc 05 02 c7 ff 7d fa
+10:53:24.837 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.843 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fc 9c 01 fc ff 5a fc 31 02 d0 ff 7d fa
+10:53:24.949 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:24.951 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fc 8a 01 fc ff 6b fc 42 02 e2 ff 7d fa
+10:53:25.060 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.064 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fc 79 01 fc ff 74 fc 3a 02 d0 ff 7d fa
+10:53:25.172 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.175 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fc 4d 02 39 ff 62 fb fc 02 d0 ff 7d fa
+10:53:25.283 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.287 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fb b8 02 ab ff 51 fb ad 02 f3 ff 7d fa
+10:53:25.395 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.399 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fb 4e 02 e9 ff 3f fb 8a 02 f3 ff 7d fa
+10:53:25.506 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.511 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fa ca 02 f2 ff 2e fb 78 02 eb ff 7d fa
+10:53:25.617 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.623 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fa b0 02 f2 fe de fb 5e 02 c7 ff 7d fa
+10:53:25.729 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.732 DEBU [pymycobot.common] _read : fe fe 10 20 fd 65 fa 6a 03 0c fe 52 fb 5e 02 c7 ff 7d fa
+10:53:25.838 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.843 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fa 61 03 5b fe 14 fa da 02 d0 ff 7d fa
+10:53:25.947 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:25.951 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fa 61 03 6d fe 2f fb 20 02 f3 ff 7d fa
+10:53:26.056 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.060 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fa 61 03 6d fe 49 fb 20 02 fc ff 7d fa
+10:53:26.165 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.167 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fa 61 03 6d fe 5b fb 20 02 f3 ff 7d fa
+10:53:26.274 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.279 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fa 61 03 6d fe 63 fb 20 02 fc ff 7d fa
+10:53:26.384 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.388 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fa 61 03 6d fe 6c fb 29 03 05 ff 7d fa
+10:53:26.492 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.495 DEBU [pymycobot.common] _read : fe fe 10 20 fd 6d fa 61 03 6d fe aa fb 3b 03 1f ff 7d fa
+10:53:26.601 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.604 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 fa 72 03 6d fe cd fb 67 03 3a ff 7d fa
+10:53:26.709 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.716 DEBU [pymycobot.common] _read : fe fe 10 20 fd 88 fa 84 03 76 fe cd fb 93 03 89 ff 7d fa
+10:53:26.818 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.823 DEBU [pymycobot.common] _read : fe fe 10 20 fd 99 fa 84 03 cd fe cd fb 29 03 54 ff 7d fa
+10:53:26.929 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:26.931 DEBU [pymycobot.common] _read : fe fe 10 20 fd a2 fa 8d 04 37 fe b3 fb 29 03 5d ff 7d fa
+10:53:27.038 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.043 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab fa 95 04 98 fe b3 fb 29 03 5d ff 7d fa
+10:53:27.147 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.152 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab fa 95 04 98 fe e7 fb 93 03 a3 ff 7d fa
+10:53:27.256 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.260 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab fa 95 04 a0 fe d6 fb d9 03 c6 ff 7d fa
+10:53:27.367 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.371 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab fa ca 04 a0 fe d6 fc 05 03 be ff 7d fa
+10:53:27.476 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.479 DEBU [pymycobot.common] _read : fe fe 10 20 fd a2 fa ca 04 a0 fe e7 fc 05 03 b5 ff 7d fa
+10:53:27.586 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.591 DEBU [pymycobot.common] _read : fe fe 10 20 fd a2 fa f6 04 a0 fe cd fb f3 03 80 ff 7d fa
+10:53:27.694 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.699 DEBU [pymycobot.common] _read : fe fe 10 20 fd 7f fa ff 04 a0 fe e7 fb eb 03 92 ff 7d fa
+10:53:27.803 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.807 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 fa ff 04 a0 fe f0 fb d9 03 ac ff 7d fa
+10:53:27.913 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:27.916 DEBU [pymycobot.common] _read : fe fe 10 20 fd 7f fa ed 04 a0 fe de fb ad 03 92 ff 7d fa
+10:53:28.023 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.028 DEBU [pymycobot.common] _read : fe fe 10 20 fd 88 fa ca 04 a0 fe f0 fb 9b 03 ac ff 7d fa
+10:53:28.132 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.135 DEBU [pymycobot.common] _read : fe fe 10 20 fd 88 fa 6a 04 a0 fe f0 fb ad 03 cf ff 7d fa
+10:53:28.242 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.247 DEBU [pymycobot.common] _read : fe fe 10 20 fd 88 fa 2c 04 a0 fe d6 fb 9b 03 cf ff 7d fa
+10:53:28.352 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.356 DEBU [pymycobot.common] _read : fe fe 10 20 fd 99 fa 23 04 a0 fe aa fb c7 03 80 ff 7d fa
+10:53:28.462 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.467 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 01 fe 26 fb fc 03 d8 ff 7d fa
+10:53:28.573 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.574 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 36 fe 26 fb fc 03 d8 ff 7d fa
+10:53:28.682 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.687 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 85 fe 1d fc 1f 04 04 ff 7d fa
+10:53:28.792 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.795 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 a8 fe 0c fc 1f 04 27 ff 7d fa
+10:53:28.902 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:28.907 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 a8 fe 0c fb fc 04 1e ff 7d fa
+10:53:29.010 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.016 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 a8 fe 03 fb e2 04 15 ff 7d fa
+10:53:29.120 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.124 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 a8 fe 03 fb eb 04 41 ff 7d fa
+10:53:29.228 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.231 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 a8 fe 03 fb f3 04 41 ff 7d fa
+10:53:29.334 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.339 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 a8 fe 14 fb f3 04 41 ff 7d fa
+10:53:29.444 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.447 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 ee 05 a8 fe 0c fc 05 04 4a ff 7d fa
+10:53:29.554 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.555 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 c3 05 a8 fe 14 fc 0e 04 53 ff 7d fa
+10:53:29.662 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.675 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 85 05 a8 fe 26 fc 17 04 90 ff 7d fa
+10:53:29.788 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.792 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 24 05 a8 fe 2f fc 4b 04 a2 ff 7d fa
+10:53:29.897 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:29.903 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 00 fe 0c fc 28 04 65 ff 7d fa
+10:53:30.006 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.012 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 4f fd e8 fc 42 04 76 ff 7d fa
+10:53:30.116 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.119 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 72 fd ce fc 1f 04 4a ff 7d fa
+10:53:30.224 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.227 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 72 fe 03 fc 1f 04 41 ff 7d fa
+10:53:30.333 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.335 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 61 fe 14 fc 05 04 27 ff 7d fa
+10:53:30.442 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.447 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 61 fe 1d fb eb 04 15 ff 7d fa
+10:53:30.553 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.555 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 72 fe 1d fb eb 04 1e ff 7d fa
+10:53:30.663 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.668 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 72 fe 1d fb eb 04 27 ff 7d fa
+10:53:30.773 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.775 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 72 fe 40 fb eb 04 15 ff 7d fa
+10:53:30.883 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.887 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 1c 06 72 fe 40 fb f3 04 15 ff 7d fa
+10:53:30.991 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:30.996 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 24 06 72 fe 40 fb fc 04 1e ff 7d fa
+10:53:31.102 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.107 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 3f 06 72 fe 40 fc 05 04 1e ff 7d fa
+10:53:31.212 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.215 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 59 06 72 fe 40 fc 1f 04 30 ff 7d fa
+10:53:31.321 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.323 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 59 06 72 fe 40 fc 1f 04 27 ff 7d fa
+10:53:31.433 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.435 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 59 06 69 fe 6c fc 1f 04 1e ff 7d fa
+10:53:31.541 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.544 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 59 06 4f ff 36 fc 28 04 27 ff 7d fa
+10:53:31.652 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.655 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab f9 59 06 4f ff 5a fc 4b 04 15 ff 7d fa
+10:53:31.764 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.768 DEBU [pymycobot.common] _read : fe fe 10 20 fd 90 f9 59 06 4f ff 62 fc 54 04 15 ff 7d fa
+10:53:31.876 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.879 DEBU [pymycobot.common] _read : fe fe 10 20 fd 7f f9 59 06 4f ff 7d fc 66 04 04 ff 7d fa
+10:53:31.987 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:31.991 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 f9 59 06 4f ff a0 fc 89 04 0d ff 7d fa
+10:53:32.099 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.104 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 f9 59 06 4f ff a9 fc ac 04 53 ff 7d fa
+10:53:32.210 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.215 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 f9 59 06 46 ff c3 fc b5 04 65 ff 7d fa
+10:53:32.322 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.328 DEBU [pymycobot.common] _read : fe fe 10 20 fd 90 f9 8e 06 46 ff c3 fc ac 04 30 ff 7d fa
+10:53:32.433 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.436 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 f9 c3 06 46 ff ba fc be 04 41 ff 7d fa
+10:53:32.544 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.547 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 fa 00 06 46 ff ba fc be 04 39 ff 7d fa
+10:53:32.656 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.660 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 fa 12 06 46 ff a0 fc be 04 15 ff 7d fa
+10:53:32.767 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.771 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 fa 12 06 46 ff cc fc b5 04 41 ff 7d fa
+10:53:32.879 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.883 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 fa 12 06 46 ff cc fc c6 04 5c ff 7d fa
+10:53:32.990 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:32.995 DEBU [pymycobot.common] _read : fe fe 10 20 fd 76 fa 12 06 46 ff dd fc c6 04 6d ff 7d fa
+10:53:33.101 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.103 DEBU [pymycobot.common] _read : fe fe 10 20 fd a2 fa 12 06 46 ff c3 fc cf 04 5c ff 7d fa
+10:53:33.209 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.212 DEBU [pymycobot.common] _read : fe fe 10 20 fd ab fa 12 06 4f ff a9 fc e1 04 65 ff 7d fa
+10:53:33.318 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.323 DEBU [pymycobot.common] _read : fe fe 10 20 fe 03 fa 12 06 46 ff c3 fc fb 04 90 ff 7d fa
+10:53:33.429 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.432 DEBU [pymycobot.common] _read : fe fe 10 20 fe 75 fa 12 06 4f ff 74 fc fb 04 6d ff 7d fa
+10:53:33.540 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.544 DEBU [pymycobot.common] _read : fe fe 10 20 fe 52 fa 12 06 46 ff 97 fd 04 04 bc ff 7d fa
+10:53:33.648 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.651 DEBU [pymycobot.common] _read : fe fe 10 20 fe 37 fa 12 06 46 00 08 fd 04 04 c5 ff 7d fa
+10:53:33.758 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.772 DEBU [pymycobot.common] _read : fe fe 10 20 fd 39 fa 1a 06 46 00 11 fc e9 04 c5 ff 7d fa
+10:53:33.882 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.887 DEBU [pymycobot.common] _read : fe fe 10 20 fc d8 fa 1a 06 46 00 72 fc e1 04 ce ff 7d fa
+10:53:33.992 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:33.995 DEBU [pymycobot.common] _read : fe fe 10 20 fc e1 fa 1a 06 46 00 72 fc be 04 90 ff 7d fa
+10:53:34.101 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.103 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 1a 06 46 00 69 fc be 04 88 ff 7d fa
+10:53:34.210 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.215 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 60 fc c6 04 7f ff 7d fa
+10:53:34.319 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.323 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 1a 06 46 00 60 fc cf 04 7f ff 7d fa
+10:53:34.430 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.436 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 1a 06 46 00 69 fc cf 04 6d ff 7d fa
+10:53:34.539 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.543 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 60 fc cf 04 6d ff 7d fa
+10:53:34.650 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.655 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 57 fc e9 04 6d ff 7d fa
+10:53:34.758 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.763 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 60 fc e9 04 6d ff 7d fa
+10:53:34.867 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.872 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 1a 06 46 00 60 fc e9 04 6d ff 7d fa
+10:53:34.976 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:34.979 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 1a 06 46 00 60 fc e9 04 6d ff 7d fa
+10:53:35.085 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.091 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 69 fc e9 04 6d ff 7d fa
+10:53:35.194 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.199 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 72 fc e9 04 6d ff 7d fa
+10:53:35.302 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.308 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 72 fc e9 04 6d ff 7d fa
+10:53:35.412 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.416 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 7b fc e9 04 76 ff 7d fa
+10:53:35.522 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.527 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 57 fc e9 04 6d ff 7d fa
+10:53:35.632 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.636 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 1a 06 46 00 3d fc c6 04 5c ff 7d fa
+10:53:35.742 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.748 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 84 06 46 00 23 fc 9a 03 f2 ff 7d fa
+10:53:35.852 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.856 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa e5 06 46 ff c3 fc 3a 03 ac ff 7d fa
+10:53:35.962 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:35.967 DEBU [pymycobot.common] _read : fe fe 10 20 fc e1 fb 57 06 46 ff a0 fc 1f 03 a3 ff 7d fa
+10:53:36.072 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.075 DEBU [pymycobot.common] _read : fe fe 10 20 fc d8 fb 7a 06 46 ff b1 fb fc 03 a3 ff 7d fa
+10:53:36.181 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.183 DEBU [pymycobot.common] _read : fe fe 10 20 fc d8 fb 68 06 46 ff cc fb c7 03 a3 ff 7d fa
+10:53:36.292 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.295 DEBU [pymycobot.common] _read : fe fe 10 20 fc d8 fb 4e 06 46 ff dd fb c7 03 b5 ff 7d fa
+10:53:36.402 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.408 DEBU [pymycobot.common] _read : fe fe 10 20 fc d8 fb 45 06 46 ff d5 fb bf 03 cf ff 7d fa
+10:53:36.512 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.516 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fb 45 06 46 ff d5 fb bf 03 d8 ff 7d fa
+10:53:36.621 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.623 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fb 45 06 46 ff d5 fb a4 03 e1 ff 7d fa
+10:53:36.732 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.735 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fb 3c 06 46 ff c3 fb a4 03 cf ff 7d fa
+10:53:36.841 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.843 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa ff 06 46 ff c3 fb 9b 03 fb ff 7d fa
+10:53:36.950 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:36.955 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa a7 06 46 ff d5 fb 78 03 fb ff 7d fa
+10:53:37.060 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.064 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 4f ff cc fb 5e 03 e1 ff 7d fa
+10:53:37.170 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.176 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 7b 06 69 ff b1 fb 44 03 d8 ff 7d fa
+10:53:37.280 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.284 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 7b 06 72 ff b1 fb 81 03 fb ff 7d fa
+10:53:37.390 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.396 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 84 06 72 ff b1 fc 05 04 27 ff 7d fa
+10:53:37.499 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.504 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 72 ff 97 fc 80 04 5c ff 7d fa
+10:53:37.608 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.611 DEBU [pymycobot.common] _read : fe fe 10 20 fc f2 fa 95 06 72 ff 74 fc 9a 04 65 ff 7d fa
+10:53:37.718 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.720 DEBU [pymycobot.common] _read : fe fe 10 20 fc f2 fa 7b 06 72 ff 74 fc 92 04 41 ff 7d fa
+10:53:37.828 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.831 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 72 06 69 ff 74 fc 92 04 30 ff 7d fa
+10:53:37.937 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:37.939 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 7b 06 69 ff 2e fc 9a 04 27 ff 7d fa
+10:53:38.046 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.052 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 69 ff 25 fc 9a 04 39 ff 7d fa
+10:53:38.156 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.160 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 95 06 69 ff 1c fc 9a 04 39 ff 7d fa
+10:53:38.264 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.268 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 95 06 72 ff 1c fc 9a 04 39 ff 7d fa
+10:53:38.373 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.375 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 69 ff 2e fc a3 04 39 ff 7d fa
+10:53:38.483 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.487 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 61 ff 13 fc b5 04 30 ff 7d fa
+10:53:38.592 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.595 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 61 ff 13 fc be 04 30 ff 7d fa
+10:53:38.701 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.704 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 61 ff 13 fc be 04 30 ff 7d fa
+10:53:38.809 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.812 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 58 ff 13 fc be 04 30 ff 7d fa
+10:53:38.919 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:38.924 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 95 06 58 ff 0a fc c6 04 27 ff 7d fa
+10:53:39.027 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.032 DEBU [pymycobot.common] _read : fe fe 10 20 fd 0d fa 9e 06 69 fe f0 fc cf 04 27 ff 7d fa
+10:53:39.136 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.140 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 69 fe e7 fc e9 04 27 ff 7d fa
+10:53:39.246 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.248 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 69 fe de fc e9 04 27 ff 7d fa
+10:53:39.354 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.360 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 69 fe d6 fc e9 04 27 ff 7d fa
+10:53:39.464 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.467 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe cd fc f2 04 27 ff 7d fa
+10:53:39.572 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.575 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe c4 fc f2 04 27 ff 7d fa
+10:53:39.682 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.683 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe c4 fc f2 04 27 ff 7d fa
+10:53:39.790 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.796 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe b3 fc f2 04 27 ff 7d fa
+10:53:39.900 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:39.903 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe aa fc f2 04 27 ff 7d fa
+10:53:40.011 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.015 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe a1 fc f2 04 27 ff 7d fa
+10:53:40.122 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.124 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe a1 fc f2 04 27 ff 7d fa
+10:53:40.230 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.235 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe a1 fc f2 04 27 ff 7d fa
+10:53:40.342 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.347 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe 98 fc f2 04 27 ff 7d fa
+10:53:40.453 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.455 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 69 fe 98 fc f2 04 27 ff 7d fa
+10:53:40.563 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.567 DEBU [pymycobot.common] _read : fe fe 10 20 fd 04 fa 9e 06 72 fe 98 fd 04 04 30 ff 7d fa
+10:53:40.671 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.675 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 72 fe 98 fd 04 04 30 ff 7d fa
+10:53:40.780 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.784 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 72 fe 98 fd 04 04 30 ff 7d fa
+10:53:40.889 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:40.892 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 72 fe 8f fd 15 04 30 ff 7d fa
+10:53:40.999 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.003 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 72 fe 8f fd 15 04 39 ff 7d fa
+10:53:41.109 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.112 DEBU [pymycobot.common] _read : fe fe 10 20 fc fb fa 9e 06 72 fe 8f fd 15 04 39 ff 7d fa
+10:53:41.217 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.220 DEBU [pymycobot.common] _read : fe fe 10 20 fc f2 fa 9e 06 72 fe 8f fd 1e 04 41 ff 7d fa
+10:53:41.326 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.328 DEBU [pymycobot.common] _read : fe fe 10 20 fc f2 fa 9e 06 72 fe 8f fd 1e 04 39 ff 7d fa
+10:53:41.434 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.439 DEBU [pymycobot.common] _read : fe fe 10 20 fc f2 fa 9e 06 72 fe 87 fd 1e 04 39 ff 7d fa
+10:53:41.544 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.548 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fa 9e 06 72 fe 87 fd 30 04 39 ff 7d fa
+10:53:41.653 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.656 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fa 9e 06 72 fe 87 fd 30 04 39 ff 7d fa
+10:53:41.763 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.768 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fa 9e 06 72 fe 7e fd 30 04 39 ff 7d fa
+10:53:41.872 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.876 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fa 9e 06 72 fe 7e fd 30 04 39 ff 7d fa
+10:53:41.981 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:41.983 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fa 9e 06 72 fe 7e fd 30 04 39 ff 7d fa
+10:53:42.091 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:42.096 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fa 9e 06 72 fe 75 fd 30 04 39 ff 7d fa
+10:53:42.198 DEBU [pymycobot.common] _write: fe fe 02 20 fa
+10:53:42.203 DEBU [pymycobot.common] _read : fe fe 10 20 fc e9 fa 9e 06 72 fe 75 fd 30 04 41 ff 7d fa
+11:30:39.621 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:39.843 DEBU [pymycobot.common] _read : 
+11:30:39.843 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:40.066 DEBU [pymycobot.common] _read : 
+11:30:40.066 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:40.285 DEBU [pymycobot.common] _read : 
+11:30:40.285 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:40.500 DEBU [pymycobot.common] _read : 
+11:30:40.500 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:40.720 DEBU [pymycobot.common] _read : 
+11:30:40.720 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:40.936 DEBU [pymycobot.common] _read : 
+11:30:40.936 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:41.156 DEBU [pymycobot.common] _read : 
+11:30:41.156 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:41.374 DEBU [pymycobot.common] _read : 
+11:30:41.374 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:41.592 DEBU [pymycobot.common] _read : 
+11:30:41.592 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:41.813 DEBU [pymycobot.common] _read : 
+11:30:41.813 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:42.033 DEBU [pymycobot.common] _read : 
+11:30:42.033 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:42.255 DEBU [pymycobot.common] _read : 
+11:30:42.255 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:42.473 DEBU [pymycobot.common] _read : 
+11:30:42.473 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:42.692 DEBU [pymycobot.common] _read : 
+11:30:42.692 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:42.908 DEBU [pymycobot.common] _read : 
+11:30:42.908 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:43.126 DEBU [pymycobot.common] _read : 
+11:30:43.126 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:43.347 DEBU [pymycobot.common] _read : 
+11:30:43.347 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:43.568 DEBU [pymycobot.common] _read : 
+11:30:43.568 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
+11:30:43.785 DEBU [pymycobot.common] _read : 
+11:30:43.785 DEBU [pymycobot.common] _write: fe fe 02 23 fa 
